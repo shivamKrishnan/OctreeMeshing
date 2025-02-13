@@ -7,9 +7,9 @@ octree meshing for cfd using cgal
 ```sh
 sudo apt-get update
 sudo apt-get install libcgal-dev libcgal-demo cmake build-essential
-
+```
 
 #### macOS
 ```sh
 brew install cgal
-
+```
