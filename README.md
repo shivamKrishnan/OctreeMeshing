@@ -10,5 +10,6 @@ sudo apt-get install libcgal-dev libcgal-demo cmake build-essential
 
 
 #### macOS
+```sh
 brew install cgal
 
